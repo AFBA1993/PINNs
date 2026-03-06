@@ -48,7 +48,7 @@ def closure():
     loss.backward()
     return loss
 
-print(f"🚀 Iniciando Burgers PINN no ASUS (RAM Livre: ~11GB)")
+print(f"🚀 Iniciando Burgers PINN no ASUS (RAM Livre: ~11GB )")
 start_time = time.time()
 
 for i in range(10):
